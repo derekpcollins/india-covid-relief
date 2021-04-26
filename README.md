@@ -1,1 +1,35 @@
-# india-covid-relief-intl
+# India COVID-19 Relief Resources
+
+This is a list of resources that you can donate to to help India during this second wave of COVID-19.
+
+## International Resources
+Resources that accept donations from non-Indian citizens.
+
+* [GiveIndia](https://t.co/W8vOK7EgXX?amp=1) – Your contribution will help critical patients, hospitals and Covid Care Centres with life-saving equipment. It will provide oxygen concentrators, refill oxygen cylinders and help Covid Care Centres and charitable hospitals with supplies of N95 Masks, PPE Kits, 3ply masks, bedsheets, hand sanitisers (1 litre) and other resources.
+* [Doctors For You (via Ketto)](https://www.ketto.org/fundraiser/Hareshfordfy?utm_campaign=Hareshfordfy&utm_medium=tworg&utm_source=internal_Ketto&utm_content=&utm_term=contribute) – Established in year 2007, ’Doctors for You’ (DFY) is the largest network of Doctors, Medical Students and Concerned citizen, having a vision to cater “Health-care for Everyone”. Immediately after Covid-19 started spreading its wings in India, DFY started the first outsourced model of Covid care centre to take care of mild & moderate cases, in Mumbai, in association with its decade old partner MMRDA.
+* [Khalsa Aid](https://www.khalsaaid.org/donate) – This NGO is providing oxygen concentrators for free to COVID-19 patients in New Delhi.
+* [Milaap](https://milaap.org/fundraisers/support-ankit-gupta-2) – Milaap delivers food to covid patients isolated in different parts of Delhi.
+
+## India Resources
+Resources that accept donations from Indian citizens only.
+
+* [Mission Oxygen (via Ketto)](https://www.ketto.org/fundraiser/mission-oxygen-helping-hospitals-to-save-lives?utm_campaign=mission-oxygen-helping-hospitals-to-save-lives) – An initiative by Delhi NCR based entrepreneurs to help raise funds for importing Oxygen Concentrator machines and donating them to hospitals in need. This campaign started as a self-funded mission to help hospitals across the country get immediate access to oxygen concentrators. This is a 100% non-for-profit and charitable initiative.
+* [Paytm Foundation: Oxygen for India](https://paytm.com/offer/donateoxygen) – Paytm Foundation is raising ₹10 crore to donate Oxygen Concentrators across India. Paytm will match the contributions received through this initiative.
+
+## Learning More
+The following links will help you learn more about what's going on in India with this second wave of COVID-19 and why it's been so devastating.
+
+* [CNN: India's second Covid wave hits like a 'tsunami' as hospitals buckle under weight](https://www.cnn.com/2021/04/21/india/india-covid-hospital-shortage-intl-hnk/index.html)
+* [Time: Officially, India Has the World’s Second-Worst COVID-19 Outbreak. Unofficially, It’s Almost Certainly the Worst](https://time.com/5954416/india-covid-second-wave/)
+* [The Economist: India’s giant second wave is a disaster for it and the world](https://www.economist.com/leaders/2021/04/24/indias-giant-second-wave-is-a-disaster-for-it-and-the-world) (subscription required)
+
+## Contributing 
+1. Fork this repository
+2. Add your resource to `README.md`
+5. Create a feature branch (`git checkout -b my-new-resource`)
+6. Commit your changes (`git commit -am "Added a new resource"`)
+7. Push to the branch (`git push origin my-new-resource`)
+8. Create new Pull Request
+
+## About
+My name is [Derek P. Collins](https://derekpcollins.com/about) and I've had the privilege of visiting India several times (and I look forward to visiting much more in the future). I have friends and colleagues that live throughout India and when I started to hear about how devastating this second wave of COVID-19 was, I felt helpless and I wanted to find some way to help from afar. I started to look into organizations to donate to, but I had some trouble finding organizations that would accept donations from non-Indian citizens, which is why I started this list.
