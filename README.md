@@ -2,7 +2,7 @@
 
 This is a list of resources that you can donate to to help India during this second wave of COVID-19.
 
-**Last updated: May 10, 2021**
+*Last updated May 10, 2021*
 
 ## International Resources
 Resources that accept donations from non-Indian citizens. Note that you may need your passport number for some donations.
